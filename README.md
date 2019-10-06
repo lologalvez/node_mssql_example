@@ -3,7 +3,7 @@ This is a working example of how to connect NodeJS with a SQL Server instance ru
 
 It uses:
 * [Docker-compose](https://docs.docker.com/compose/) to pull & run an instance of SQL Server Express.
-* [ExpressJS](https://expressjs.com/) to run a the web server.
+* [ExpressJS](https://expressjs.com/) to run the web server.
 * [mssql](https://www.npmjs.com/package/mssql) module to connect and query the dockerized instance of SQL Server from the ExpressJS app.
 
 ## How to run it
